@@ -10,4 +10,4 @@ This portfolio showcases my projects in automation, highlighting my skills in cr
 - [Pizza Order Automation Project](PizzaOrderForm/README.md)
 
 ## Contact Information
-For inquiries or feedback, please reach out at: [your email address] or [link to your social media profile].
+For inquiries or feedback, please reach out at: [dariavereshchaeva@gmail.com] or [[link to your social media profile](https://www.instagram.com/dariia.v.va?igsh=MThxNDBraDFhaGZsOQ%3D%3D&utm_source=qr)].
