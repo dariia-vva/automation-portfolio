@@ -1,5 +1,7 @@
 # Telegram Bot Project
 
+![Скріншот Telegram Bot](https://raw.githubusercontent.com/dariia-vva/screenshots/main/telegram.jpeg)
+
 ## Description
 This project involves the creation of a Telegram bot using BotFather. The bot provides automated responses to frequently asked questions, such as how to schedule a consultation and where to purchase a course. Additionally, it includes a filter for inappropriate language in the chat.
 
