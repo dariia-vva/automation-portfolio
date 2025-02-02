@@ -1,5 +1,7 @@
 # Pizza Order Automation Project
 
+https://raw.githubusercontent.com/dariia-vva/screenshots/main/pizza-order-scr.jpeg
+
 ## Description
 This project features a Google Form designed for pizza ordering. The form is connected to Google Sheets, where all order information is stored, including details from the order to the delivery address. After placing an order, customers receive a notification confirming that their order is being prepared.
 
