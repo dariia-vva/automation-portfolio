@@ -1,9 +1,3 @@
-# Automation Expert | Make.com & Chatbot Specialist  
-
-👋 I'm Daria, an automation enthusiast with a passion for optimizing processes and helping businesses save time through smart automation solutions. I specialize in integrating tools like **Make.com**, **ManyChat**, and **Google Sheets** to create seamless workflows and improve efficiency.
-
----
-
 ## 🌟 Projects  
 
 ### 📌 ManyChat Chatbot for Instagram Flower Shop – 80% Faster Response Time and 50% Reduced Manual Workload  
