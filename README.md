@@ -8,6 +8,7 @@ This portfolio showcases my projects in automation, highlighting my skills in cr
 ## Projects
 - [Telegram Bot Project](TelegramBot/README.md)
 - [Pizza Order Automation Project](PizzaOrderForm/README.md)
+- [ChatBot for Inst Flower Shpo] (ChatBot for Instagram Flower Shop/README.md)
 
 ## Contact Information
 For inquiries or feedback, please reach out at: [dariavereshchaeva@gmail.com] or [[link to your social media profile](https://www.instagram.com/dariia.v.va?igsh=MThxNDBraDFhaGZsOQ%3D%3D&utm_source=qr)].
