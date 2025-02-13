@@ -8,7 +8,7 @@
 
 ### 📌 ManyChat Chatbot for Instagram Flower Shop – 80% Faster Response Time and 50% Reduced Manual Workload  
 
-![Скріншот ChatBot for Flower Shop](IMG_0476.jpeg)
+![Скріншот ChatBot for Flower Shop](screenshots/IMG_0476.jpeg)
 
 **Project Description:**  
 Developed and implemented a custom ManyChat chatbot for an Instagram-based flower shop, optimizing the ordering process and significantly improving response speed and customer satisfaction. The solution automated repetitive tasks, allowing the business to focus on growth and customer engagement.  
